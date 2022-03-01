@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ,linkedin profile:-"Kundan Baniya",Email:-"kundanbaniya019@gmail.com
+- 📫 How to reach me ,linkedin profile:-"Kundan Baniya",
+- Email:-"kundanbaniya019@gmail.com
 - 
 
 <!---

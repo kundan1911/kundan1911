@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kundan1911
-- 👀 I’m interested in web development
+- 👀 I’m interested in Django,MERN stack
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ,linkedin profile:-"Kundan Baniya",
